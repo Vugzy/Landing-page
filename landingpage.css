@@ -1,0 +1,12 @@
+
+
+body {
+  background-image: url("http://design-milk.com/images/2016/06/Gold-Phantom-Background-Rose-Gold.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  opacity: 100%;
+  image-resolution: from-image;
+  position: relative;
+
+}
+img { -webkit-filter: brightness(50%); }
